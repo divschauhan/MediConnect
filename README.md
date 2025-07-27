@@ -1,4 +1,4 @@
-# HealthVista
+# MediConnect
 
 **HealthVista** is a healthcare web application developed using the Django framework. This platform enables users to manage their health by providing a simple interface for both patients and doctors.
 
